@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">ActionFigureApp</string>
+
+    <string name="figures_name">Nama Figure</string>
+    <string name="description">Deskripsi</string>
+    <string name="profil">About</string>
+    <string name="seller_name">Nama Penjual</string>
+    <string name="dijual_oleh">Dijual oleh:</string>
+
+    <string name="about_name">Marvel Krent</string>
+    <string name="about_email">marvelkrent@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Akaza</item>
+        <item>Enmu</item>
+        <item>Giyu Tomiyoka</item>
+        <item>Inosuke Hashibira</item>
+        <item>Kanao Tsuyuri</item>
+        <item>Kyojuro Rengoku</item>
+        <item>Muzan Kibutsuji</item>
+        <item>Tanjiro Kamado</item>
+        <item>Tengen Uzui</item>
+        <item>Zenitsu Agatsuma</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>Rp20000</item>
+        <item>Rp25000</item>
+        <item>Rp30000</item>
+        <item>Rp70000</item>
+        <item>Rp50000</item>
+        <item>Rp55000</item>
+        <item>Rp39000</item>
+        <item>Rp99000</item>
+        <item>Rp88000</item>
+        <item>Rp75000</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Holding the position of Upper Rank Three, he is a demon who despises whoever he considers weak and offers those he considers strong enough to have his respect the chance to become demons. He was once a human called Hakuji (狛治) who stole as a child to care for his ailing father before he committed suicide to free his burdened son. Hakuji was adopted by a martial artist and trained under him while falling in love with his master\'s daughter Koyuki. But Hakuji loses his new family when they were poisoned by a rival dojo who were unable to beat him in a fair fight, slaughtering them single-handedly before being turned into a demon by Muzan.</item>
+        <item>Enmu is the main villain from the Mugen Train Arc and the highest ranked of the Lower Moons. He was the only Lower Moon left alive. A sadistic demon holding the position of Lower Rank One, he is intensely devoted to Muzan. His Blood Demon Art allows him to enter and manipulate a person\'s dream so he can essentially kill them. Being the Lower Rank that Muzan spared after he slaughtered the others, Enmu is given the task to kill the Hashira and Tanjiro. Enmu lays a trap for Tanjiro and his friends on a train that he later fuses himself to, only to be killed by the Demon Slayers to his shock.</item>
+        <item>Giyu Tomioka is the main supporting character in Demon Slayer: Kimetsu no Yaiba. This male character with a height of 176 cm was born on February 8th.The current Water Hashira. He is the first Demon Slayer that Tanjiro comes across. He initially tries to kill Nezuko but reconsiders after seeing her protect an unconscious Tanjiro. He sends them to his mentor Urokodaki in the hopes that Tanjiro could succeed him and possibly cure Nezuko. He does not think of himself as a true Hashira, despite mastering Water Breathing, due to survivor\'s guilt during Final Selection. </item>
+        <item>A young boy who was raised by his mother Kotoha Hashibira for a short time until she was murdered by a demon, later revealed as Upper Rank Two, Doma of the Twelve Kizuki. After she sacrificed herself to save his life, he was raised by wild boars, and then taught to read and write by an old man. The current Water Hashira. He is the first Demon Slayer that Tanjiro comes across. He initially tries to kill Nezuko but reconsiders after seeing her protect an unconscious Tanjiro. He sends them to his mentor Urokodaki in the hopes that Tanjiro could succeed him and possibly cure Nezuko. </item>
+        <item>She is the protegé of Shinobu Kochō, the current Insect Hashira, and is being trained as a Tsuguko, or successor to the Hashira - however, it does not necessarily mean that she is an Insect Hashira nor has the same "breathing technique" as Shinobu. She uses the "Flower Breathing". Even after being rescued and taken in by Shinobu and Kanae, she would never do anything unless ordered, so Kanae gave her a coint to flip which she could use whenever she had trouble making decisions. She relies heavily on her coin flipping to make decisions until Tanjiro becomes friendly with her.</item>
+        <item> Though he comes off as boisterous and cheerfully eccentric, Kyojuro is pure-hearted and honorable due to his mother instilling in him a moral code of protecting the weak. He was assigned to investigate the Mugen Train, with Tanjiro, Zenitsu, Inosuke, and Nezuko aiding him to dispatch Enmu.  After their battle with Enmu, he meets Akaza of the Twelve Kizuki. Akaza proposes that Kyojuro turn into a demon so they can fight for all of eternity, to which Kyojuro flatly declines. He is ultimately killed by Akaza.</item>
+        <item>The primary antagonist of the series, Muzan Kibutsuji was the first and strongest demon in existence. He used his blood to sire the other demons. He was able to manipulate his cellular structure and frequently disguised himself as different humans of various ages and genders. Muzan killed Tamayo and many Demon Slayers before realizing that he was infected with a variation of the humanity-restoring serum that Tamayo and Shinobu developed with added poisons that removed most of his abilities and weakened him to be easily killed.</item>
+        <item>Tanjiro Kamado is the oldest son of charcoal sellers Tanjuro and Kie Kamado. His life changed when his entire family was massacred by the demon Muzan Kibutsuji while he was out selling charcoal. His endless optimism and simple nature enable most people to enjoy his company. Still, at the same time, it also puts him at odds with certain personalities. Tanjiro has a heightened sense of smell which allows him to track down demons and evade their attacks, as well as determine people\'s real emotions.</item>
+        <item>The current Sound Hashira and former shinobi. He has three wives who work as scouts but is forced to retire from his position as Hashira after losing a hand and an eye in a battle against Gyutaro.He reappears in the final battle against Muzan, standing guard to protect Kiriya alongside Kyojuro\'s father. In the Reiwa Era. Tengen has a reincarnation/descendant named Tenma, an athlete who wins a gold medal in gymnastics.</item>
+        <item>An extremely cowardly boy who was forced to join the Demon Slayer Corps at around the same time as Tanjiro to pay for his debts, Zenitsu Agatsuma sometimes functions as comic relief. His cowardly personality is also used to contrast with Tanjiro\'s determined character. His cowardly personality initially hinders him and he is only able to fight when he is unconscious or asleep, but he later learns to push his fears aside and take action when needed.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/akaza</item>
+        <item>@drawable/enmu</item>
+        <item>@drawable/giyu</item>
+        <item>@drawable/inosuke</item>
+        <item>@drawable/kanao</item>
+        <item>@drawable/kyojuro</item>
+        <item>@drawable/musan</item>
+        <item>@drawable/tanjiro</item>
+        <item>@drawable/tengen</item>
+        <item>@drawable/zenitsu</item>
+    </string-array>
+
+    <string-array name="data_seller_photo">
+        <item>https://www.linkpicture.com/q/agus.jpg</item>
+        <item>https://www.linkpicture.com/q/budi.jpg</item>
+        <item>https://www.linkpicture.com/q/dewi.jpg</item>
+        <item>https://www.linkpicture.com/q/jane.jpg</item>
+        <item>https://www.linkpicture.com/q/joko.jpg</item>
+        <item>https://www.linkpicture.com/q/sari.jpg</item>
+        <item>https://www.linkpicture.com/q/siti.jpg</item>
+        <item>https://www.linkpicture.com/q/yesaya.jpg</item>
+        <item>https://www.linkpicture.com/q/agus.jpg</item>
+        <item>https://www.linkpicture.com/q/jane.jpg</item>
+    </string-array>
+
+    <string-array name="data_seller_name">
+        <item>Agus Budiarjo</item>
+        <item>Budi Candra Kusumo</item>
+        <item>Dewi Ayu Lestari</item>
+        <item>Jane Dwayne Ngoh</item>
+        <item>Joko Subiyanto</item>
+        <item>Sari Nahduar Candra</item>
+        <item>Siti Putri Wijaya</item>
+        <item>Yesaya Michael Kaern</item>
+        <item>Agus Budiarjo</item>
+        <item>Jane Dwayne Ngoh</item>
+    </string-array>
+
+
+
+
+</resources>
