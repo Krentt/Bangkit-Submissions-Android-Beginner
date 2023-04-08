@@ -51,10 +51,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://drive.google.com/uc?id=1X1Z9wCo5fo863VLQAeHeOz-1aoZ0GjOM" alt="Logo" height="450px">
-<img src="https://drive.google.com/uc?id=10ClPErV4jNuxhUNGDh5Y2-h5ZOkeQ4Md" alt="Logo" height="450px">
-<img src="https://drive.google.com/uc?id=1xKknC-u1bm64yiuwQBSyVxJi6fpQQgWS" alt="Logo" height="450px">
-<img src="https://drive.google.com/uc?id=1T_Y6OTcY_250Jz411r87TNuf2G-IiK1F" alt="Logo" height="450px">
+<p float="left">
+  <img src="https://drive.google.com/uc?id=1X1Z9wCo5fo863VLQAeHeOz-1aoZ0GjOM" alt="Logo" height="450px">
+  <img src="https://drive.google.com/uc?id=10ClPErV4jNuxhUNGDh5Y2-h5ZOkeQ4Md" alt="Logo" height="450px">
+  <img src="https://drive.google.com/uc?id=1xKknC-u1bm64yiuwQBSyVxJi6fpQQgWS" alt="Logo" height="450px">
+  <img src="https://drive.google.com/uc?id=1T_Y6OTcY_250Jz411r87TNuf2G-IiK1F" alt="Logo" height="450px">
+</p>
+
 
 <br>
 
